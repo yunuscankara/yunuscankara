@@ -3,23 +3,30 @@
 
 - 🔭 I’m currently working on **AI Terminal Assistant**
 
+
 - 🌱 I’m currently learning **Deep Learning, PyTorch, NLP, Transformers, LLMs, RAG & AI Agents**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/yunuscankara](https://github.com/yunuscankara)
 
+
 - 💬 Ask me about **Python, SQL, Data Analysis & FastAPI**
+
 
 - 📫 How to reach me **cnkyunus@gmail.com**
 
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/yunus-cankara-4b323324a](https://www.linkedin.com/in/yunus-cankara-4b323324a)
+
 
 - ⚡ Fun fact **I enjoy building things and learning how they work.**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yunuscankara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunuscankara" height="30" width="40" /></a>
-<a href="https://kaggle.com/cankaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cankaray" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cankaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cankaraa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yunus-cankara-4b323324a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunuscankara" height="30" width="40" /></a>
+<a href="https://kaggle.com/cankaray" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cankaray" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cankaraa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cankaraa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
