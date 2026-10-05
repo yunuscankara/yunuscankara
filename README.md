@@ -1,49 +1,30 @@
-# Hi there, I'm Yunus 👋
+<h1 align="center">Hi 👋, I'm Yunus Cankara</h1>
+<h3 align="center">Data & AI | Python, SQL & Machine Learning</h3>
 
-Junior Data Scientist & AI Developer with a background in Management Information Systems. Passionate about building semantic search pipelines, LLM-powered applications, and solving data-driven business problems.
+- 🔭 I’m currently working on **AI Terminal Assistant**
 
----
+- 🌱 I’m currently learning **Deep Learning, PyTorch, NLP, Transformers, LLMs, RAG & AI Agents**
 
-### 🔭 What I'm Currently Working On
-- 🚀 Developing AI applications using **FastAPI**, **Sentence-Transformers**, and **PostgreSQL (pgvector)**.
-- 🧠 Exploring **Retrieval-Augmented Generation (RAG)** and **Agentic AI** architectures.
-- 📊 Data analysis, exploratory modeling, and advanced **SQL** optimization.
+- 👨‍💻 All of my projects are available at [https://github.com/yunuscankara](https://github.com/yunuscankara)
 
----
+- 💬 Ask me about **Python, SQL, Data Analysis & FastAPI**
 
-### 🛠️ Tech Stack & Tools
+- 📫 How to reach me **cnkyunus@gmail.com**
 
-**Languages & Backend:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yunus-cankara-4b323324a](https://www.linkedin.com/in/yunus-cankara-4b323324a)
 
-**Data Science & Machine Learning:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+- ⚡ Fun fact **I enjoy building things and learning how they work.**
 
-**Databases & Cloud:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Environment:**  
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunuscankara&show_icons=true&theme=radical&hide_border=true" alt="Yunus's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuscankara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+<a href="https://linkedin.com/in/yunus cankara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus cankara" height="30" width="40" /></a>
+<a href="https://kaggle.com/cankaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cankaray" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cankaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cankaraa" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-### 📬 Connect with Me
-- **LinkedIn:** [Yunus Cankara](https://www.linkedin.com/in/yunus-cankara-4b323324a)
-- **Email:** cnkyunus@gmail.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuscankara&show_icons=true&locale=en&layout=compact" alt="yunuscankara" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuscankara&show_icons=true&locale=en" alt="yunuscankara" /></p>
