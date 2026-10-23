@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Cankara</h1>
 <h3 align="center">Data & AI | Python, SQL & Machine Learning</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/yunuscankara](https://github.com/yunuscankara)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/yunus-cankara-4b323324a](https://www.linkedin.com/in/yunus-cankara-4b323324a)
 
 
